@@ -8,7 +8,7 @@ outputs:
   issues:
     description: "Array of issues returned by Octokit"
 runs:
-  using: "node12"
+  using: "node16"
   main: "index.js"
 branding:
   icon: 'link'
